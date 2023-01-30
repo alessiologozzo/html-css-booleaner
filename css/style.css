@@ -19,3 +19,27 @@ header img {
   bottom: 2px;
   left: 15px;
 }
+
+.corpo_pagina {
+  margin-left: 5px;
+}
+
+h1 {
+  font-size: 30px;
+}
+
+.font_roboto {
+  font-family: "Roboto", sans-serif;
+}
+
+.colore_grigio {
+  color: #929292;
+}
+
+.colore_azzurro {
+  color: #1ca7e4;
+}
+
+.font_size_11 {
+  font-size: 11px;
+}
