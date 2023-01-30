@@ -20,7 +20,8 @@ header img {
 }
 
 #corpo_pagina {
-  margin-left: 5px;
+  width: 60vw;
+  margin: auto;
 }
 
 .margin_top {
