@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+header {
+  width: 100vw;
+  height: 10vh;
+  position: relative;
+  background-image: url(../img/pattern.png);
+  background-size: 300px;
+  background-color: #4ea0ff;
+}
+
+header img {
+  width: 150px;
+  position: absolute;
+  bottom: 2px;
+  left: 15px;
+}
