@@ -72,3 +72,14 @@ tr:nth-child(odd) {
 td {
   width: calc(100% / 3);
 }
+
+.relative {
+  position: relative;
+}
+
+.scritta_img {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  color: white;
+}
