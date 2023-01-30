@@ -24,7 +24,7 @@ header img {
 }
 
 .margin_top {
-  margin-top: 10px;
+  margin-top: 20px;
 }
 h1 {
   font-size: 30px;
@@ -52,4 +52,23 @@ h1 {
 
 ul li {
   margin-left: 30px;
+}
+
+table {
+  width: 1200px;
+  border-collapse: collapse;
+}
+
+th {
+  background-color: #20a9e5;
+  color: white;
+  text-align: left;
+}
+
+tr:nth-child(odd) {
+  background-color: #b1e5f2;
+}
+
+td {
+  width: calc(100% / 3);
 }
