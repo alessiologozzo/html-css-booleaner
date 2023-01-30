@@ -5,8 +5,7 @@
 }
 
 header {
-  width: 100vw;
-  height: 10vh;
+  height: 70px;
   position: relative;
   background-image: url(../img/pattern.png);
   background-size: 300px;
@@ -20,10 +19,13 @@ header img {
   left: 15px;
 }
 
-.corpo_pagina {
+#corpo_pagina {
   margin-left: 5px;
 }
 
+.margin_top {
+  margin-top: 10px;
+}
 h1 {
   font-size: 30px;
 }
